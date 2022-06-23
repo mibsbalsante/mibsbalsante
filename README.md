@@ -1,13 +1,8 @@
-<div style="display: flex; justify-content: center;">
-<div>
 
-<img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
-
-<img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
-
+<div align="center">
+  <img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
+  <img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
 </div>
-
-<div style="width:320px" width="180">
 
 # :sparkles: Welcome to my profile :sparkles:
 
@@ -27,14 +22,10 @@
 | [Codepen](https://codepen.io/mibsbalsante) | [Linkedin](https://www.linkedin.com/in/mibsbalsante) | [e-Mail](mailto:mibsbalsante@gmail.com) |
 
 </div>
-</div>
 
-<div>
-
-<img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
-
-<img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
-
+<div align="center">
+  <img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
+  <img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
 </div>
 </div>
 
