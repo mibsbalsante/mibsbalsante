@@ -1,16 +1,48 @@
-### Hi there 👋
+<div style="display: flex; justify-content: center;">
+<div>
 
-<!--
-**mibsbalsante/mibsbalsante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
 
-Here are some ideas to get you started:
+<img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div style="width:320px" width="180">
+
+# :sparkles: Welcome to my profile :sparkles:
+
+## Who am I?
+
+- 25yo potato
+- 6+ experienced frontend developer
+- someone that's really passionate about :sparkles:css:sparkles:
+- i experiment on pixel art, design, games and even music
+
+## How to reach me?
+
+<div align="center">
+
+| [![Codepen](https://img.icons8.com/pix/64/FF00FF/experimental-fantasy-pix.png)](https://codepen.io/mibsbalsante) | [![Linkedin](https://img.icons8.com/pix/64/FF00FF/experimental-money-bag-pix.png)](https://www.linkedin.com/in/mibsbalsante) | [![e-Mail](https://img.icons8.com/pix/64/FF00FF/experimental-secured-letter-pix.png)](mailto:mibsbalsante@gmail.com) |
+|     :---:      |    :---:      |     :---:      |
+| [Codepen](https://codepen.io/mibsbalsante) | [Linkedin](https://www.linkedin.com/in/mibsbalsante) | [e-Mail](mailto:mibsbalsante@gmail.com) |
+
+</div>
+</div>
+
+<div>
+
+<img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
+
+<img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
+
+</div>
+</div>
+
+<div align="center">
+
+![](https://anlucas.neocities.org/html.gif)
+![](https://anlucas.neocities.org/bestview.gif)
+![](https://anlucas.neocities.org/browser.gif)
+![](https://anlucas.neocities.org/notepad-logo3.gif)
+
+</div>
