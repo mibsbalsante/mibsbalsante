@@ -30,10 +30,8 @@
 </div>
 
 <div align="center">
-
-![](https://anlucas.neocities.org/html.gif)
-![](https://anlucas.neocities.org/bestview.gif)
-![](https://anlucas.neocities.org/browser.gif)
-![](https://anlucas.neocities.org/notepad-logo3.gif)
-
+  <img src="https://anlucas.neocities.org/html.gif" />
+  <img src="https://anlucas.neocities.org/bestview.gif" />
+  <img src="https://anlucas.neocities.org/browser.gif" />
+  <img src="https://anlucas.neocities.org/notepad-logo3.gif" />
 </div>
