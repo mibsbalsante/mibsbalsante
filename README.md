@@ -9,7 +9,7 @@
 ## Who am I?
 
 - 25yo potato
-- 6+ experienced frontend developer
+- 6y+ experienced frontend developer
 - someone that's really passionate about :sparkles:css:sparkles:
 - i experiment on pixel art, design, games and even music
 
