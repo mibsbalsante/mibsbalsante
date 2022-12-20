@@ -17,7 +17,7 @@
 
 <div align="center">
 
-| [![Codepen](https://img.icons8.com/pix/64/FF00FF/experimental-fantasy-pix.png)](https://codepen.io/mibsbalsante) | [![Linkedin](https://img.icons8.com/pix/64/FF00FF/experimental-money-bag-pix.png)](https://www.linkedin.com/in/mibsbalsante) | [![e-Mail](https://img.icons8.com/pix/64/FF00FF/experimental-secured-letter-pix.png)](mailto:mibsbalsante@gmail.com) |
+| [![Codepen](https://img.icons8.com/pixels/64/FF00FF/experimental-fantasy-pix.png)](https://codepen.io/mibsbalsante) | [![Linkedin](https://img.icons8.com/pixels/64/FF00FF/experimental-money-bag-pix.png)](https://www.linkedin.com/in/mibsbalsante) | [![e-Mail](https://img.icons8.com/pixels/64/FF00FF/experimental-secured-letter-pix.png)](mailto:mibsbalsante@gmail.com) |
 |     :---:      |    :---:      |     :---:      |
 | [Codepen](https://codepen.io/mibsbalsante) | [Linkedin](https://www.linkedin.com/in/mibsbalsante) | [e-Mail](mailto:mibsbalsante@gmail.com) |
 
