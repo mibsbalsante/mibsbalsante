@@ -8,10 +8,13 @@
 
 ## Who am I?
 
-- 25yo potato
-- 6y+ experienced frontend developer
+- 26yo potato
+- 7y+ experienced frontend developer
+  - with knowledge in differents platforms and programming languages
+  - also experienced with backend and desktop development
+  - self-proclaimed design ops
 - someone that's really passionate about :sparkles:css:sparkles:
-- i experiment on pixel art, design, games and even music
+- always experimenting with pixel art, design, games and even music
 
 ## How to reach me?
 
