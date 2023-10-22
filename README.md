@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
   <img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
@@ -15,6 +14,10 @@
   - self-proclaimed design ops
 - someone that's really passionate about :sparkles:css:sparkles:
 - always experimenting with pixel art, design, games and even music
+
+ ![My Github status](https://github-readme-stats.vercel.app/api?username=mibsbalsante&theme=transparent&title_color=ff00ff&text_color=00b3b3&hide_border=true&card_width=500px&custom_title=&#9733;%20My%20Profile%20&#9733;&show_icons=true&icon_color=00ffff&rank_icon=percentile&text_bold=false)
+ 
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mibsbalsante&theme=transparent&title_color=ff00ff&text_color=00b3b3&hide_border=true&card_width=500px&custom_title=&#9733;%20My%20Favorite%20Languages%20&#9733;&langs_count=8)
 
 ## How to reach me?
 
