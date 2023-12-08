@@ -3,7 +3,7 @@
   <img src="https://cutewallpaper.org/24/transparent-sparkle-gif/transparent-bling-sparkle-gif-on-gifer-by-malaghma.gif" width="180" />
 </div>
 
-# :sparkles: Welcome to my profile :sparkles:
+# ✨ Welcome to my profile ✨
 
 ## Who am I?
 
@@ -12,7 +12,7 @@
   - with knowledge in differents platforms and programming languages
   - also experienced with backend and desktop development
   - self-proclaimed design ops
-- someone that's really passionate about :sparkles:css:sparkles:
+- someone that's really passionate about ✨css✨
 - always experimenting with pixel art, design, games and even music
 
  ![My Github status](https://github-readme-stats.vercel.app/api?username=mibsbalsante&theme=transparent&title_color=ff00ff&text_color=00b3b3&hide_border=true&card_width=500px&custom_title=&#9733;%20My%20Profile%20&#9733;&show_icons=true&icon_color=00ffff&rank_icon=percentile&text_bold=false)
