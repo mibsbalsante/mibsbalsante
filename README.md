@@ -7,8 +7,8 @@
 
 ## Who am I?
 
-- 26yo potato
-- 7y+ experienced frontend developer
+- 27yo potato
+- 8y+ of experience as a frontend developer
   - with knowledge in differents platforms and programming languages
   - also experienced with backend and desktop development
   - self-proclaimed design ops
